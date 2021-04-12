@@ -1,12 +1,12 @@
 {
-  "name": "adapt-contrib-vanilla",
-  "version": "5.4.0",
+  "name": "adapt-contrib-atingi",
+  "version": "0.1.0",
   "framework": ">=5.3",
-  "homepage": "https://github.com/adaptlearning/adapt-contrib-vanilla",
-  "issues": "https://github.com/adaptlearning/adapt_framework/issues/new",
-  "theme": "vanilla",
-  "displayName": "Vanilla",
-  "description": "A core bundled theme",
+  "homepage": "https://github.com/Wunderbyte-GmbH/adapt-theme-atingi",
+  "issues": "https://github.com/Wunderbyte-GmbH/adapt-theme-atingi/issues/new",
+  "theme": "atingi",
+  "displayName": "Atingi",
+  "description": "Atingi Theme",
   "main": "js/theme.js",
   "keywords": [
     "adapt-plugin",
@@ -20,5 +20,5 @@
     "test",
     "tests"
   ],
-  "targetAttribute": "_vanilla"
+  "targetAttribute": "_atingi"
 }

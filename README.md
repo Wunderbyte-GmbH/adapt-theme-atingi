@@ -1,4 +1,13 @@
-# adapt-contrib-vanilla
+# adapt-contrib-antingi
+
+
+Modification of Vanilla theme for offline support of following fonts:
+
+- Open-Sans
+- Tajawal
+- Varela-Round
+
+Origiginal readme of Vanilla fork:
 
 **Vanilla** is a *theme* bundled with the [Adapt framework](https://github.com/adaptlearning/adapt_framework).
 

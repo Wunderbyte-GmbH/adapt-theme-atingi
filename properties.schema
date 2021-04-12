@@ -676,7 +676,7 @@
         "contentobject": {
           "type": "object",
           "properties": {
-            "_vanilla": {
+            "_atingi": {
               "type": "object",
               "required": false,
               "properties": {
@@ -879,7 +879,7 @@
         "article": {
           "type": "object",
           "properties": {
-            "_vanilla": {
+            "_atingi": {
               "type": "object",
               "required": false,
               "properties": {
@@ -983,7 +983,7 @@
         "block": {
           "type": "object",
           "properties": {
-            "_vanilla": {
+            "_atingi": {
               "type": "object",
               "required": false,
               "properties": {

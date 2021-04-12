@@ -12,7 +12,7 @@ define([
 
   function onPostRender(view) {
     var model = view.model;
-    var theme = model.get('_vanilla');
+    var theme = model.get('_atingi');
 
     if (!theme) return;
 
